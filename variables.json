@@ -1,0 +1,13 @@
+{
+    "zanyatie" : {
+        "id" : 13,  
+        "status" : "close", 
+        "avtor" : "", 
+        "channel" : null, 
+        "tema" : "", 
+        "spisok" : [], 
+        "opozd" : [], 
+        "spisok_z" : [] 
+    },
+    "vse_zanatia" : []
+}
