@@ -1,5 +1,5 @@
 {
-	"token": ${{secrets.DISCORD_TOCEN}},
+	"token": secrets.DISCORD_TOCEN,
     "prefix" : "!",
     "clientId" : "912338722748506142", 
     "guildId" : "806169537996914798"
