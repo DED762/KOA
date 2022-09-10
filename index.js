@@ -1,6 +1,7 @@
 // Require the necessary discord.js classes
 const { Client, Collection, Intents } = require('discord.js');
 const { token, prefix, clientId } = require('./config.json');
+const tocen = secrets.DISCORD_TOKEN;
 const fs = require('fs');
 
 // Create a new client instance
@@ -66,4 +67,4 @@ for (const file of eventFiles) {
 
 
 // Login to Discord with your client's token
-client.login(token);
+client.login(tocen);
